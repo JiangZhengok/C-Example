@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512288282 source:e:\c++\example\maid\main.cpp
+	<iostream>
+	<string>
+

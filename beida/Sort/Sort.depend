@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524538715 source:e:\00mydocuments\publicdocument\c++\example\beida\sort\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

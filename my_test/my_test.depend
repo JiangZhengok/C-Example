@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532506597 source:e:\00mydocuments\publicdocument\c++\example\my_test\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<deque>
+	<list>
+	<algorithm>
+

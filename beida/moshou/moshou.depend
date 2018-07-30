@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523537410 source:e:\00mydocuments\publicdocument\c++\example\beida\moshou\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+

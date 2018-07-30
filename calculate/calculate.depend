@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532942938 source:e:\00mydocuments\publicdocument\c++\example\calculate\main.c
+	<stdio.h>
+	<stdlib.h>
+

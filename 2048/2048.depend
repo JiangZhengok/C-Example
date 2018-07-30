@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512390191 source:e:\c++\example\2048\main.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdlib>
+

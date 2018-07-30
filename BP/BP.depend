@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1512377247 source:e:\c++\example\bp\bp.cpp
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<assert.h>
+	"BP.h"
+
+1512482164 e:\c++\example\bp\bp.h
+	<vector>
+
+1512377282 source:e:\c++\example\bp\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"BP.h"
+

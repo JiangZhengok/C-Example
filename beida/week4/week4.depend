@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523706103 source:e:\00mydocuments\publicdocument\c++\example\beida\week4\main.cpp
+	<cstring>
+	<cstdlib>
+	<iostream>
+

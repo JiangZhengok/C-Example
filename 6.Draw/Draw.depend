@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512292365 source:e:\c++\example\draw\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

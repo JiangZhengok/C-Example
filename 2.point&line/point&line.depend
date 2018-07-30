@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512274160 source:e:\c++\example\point&line\main.cpp
+	<iostream>
+	<cmath>
+
