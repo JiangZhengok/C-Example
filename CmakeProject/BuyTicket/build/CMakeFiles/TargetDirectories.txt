@@ -1,0 +1,3 @@
+/media/jiang/DATA/00MyDocuments/PublicDocument/C++/Example/CmakeProject/BuyTicket/build/CMakeFiles/edit_cache.dir
+/media/jiang/DATA/00MyDocuments/PublicDocument/C++/Example/CmakeProject/BuyTicket/build/CMakeFiles/rebuild_cache.dir
+/media/jiang/DATA/00MyDocuments/PublicDocument/C++/Example/CmakeProject/BuyTicket/build/CMakeFiles/BuyTicket.dir
